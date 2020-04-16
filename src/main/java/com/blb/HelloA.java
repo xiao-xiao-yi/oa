@@ -7,5 +7,7 @@ public class HelloA {
 		System.out.println("lisia");
 		
 		System.out.println("zhangsana");
+		
+		System.out.println("zhangsana");
 	}
 }
